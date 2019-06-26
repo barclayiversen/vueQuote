@@ -21,7 +21,7 @@
         curson: pointer;
     }
 
-    quote:hover {
-        background-color: #ffe2e2;
+    .quote:hover {
+        background-color: red;
     }
 </style>
